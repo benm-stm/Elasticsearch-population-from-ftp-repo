@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#python version: Python 3.5.2
 # -*- coding: utf-8 -*-
 
 # FTP CLI interface
